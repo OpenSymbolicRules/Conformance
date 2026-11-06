@@ -53,7 +53,7 @@ applied rule ids equals `trace`, and it reports a normal form exactly when
 | Suite | Cases | Inputs |
 |---|---|---|
 | `trigonometry` | 84 | 4 profiles × (13 rule patterns + 8 nested, literal and non-linear inputs) |
-| `algebra` | 46 | 2 profiles × (15 rule patterns + 8 nested, conditional, literal and non-linear inputs) |
+| `algebra` | 48 | 2 profiles × (16 rule patterns + 8 nested, conditional, literal and non-linear inputs) |
 
 The literal cases include `sin(t)^3 + cos(t)^3` and `sin(3t)`, which must
 *not* match `x^2` and `2x`, and a power `x^2` that must match by integer value.
