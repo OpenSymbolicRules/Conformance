@@ -14,5 +14,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Digest consistency check, `justfile` and CI.
 
 ### Changed
-- `trigonometry` suite regenerated from Lean source digest `6b9f920f…`
-  (termination proofs added); the cases are unchanged.
+- `trigonometry` suite regenerated from Lean source digest `5ba7794e…`
+  (termination and export proofs added); the cases are unchanged.
