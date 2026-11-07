@@ -54,7 +54,7 @@ applied rule ids equals `trace`, and it reports a normal form exactly when
 |---|---|---|
 | `trigonometry` | 84 | 4 profiles × (13 rule patterns + 8 nested, literal and non-linear inputs) |
 | `algebra` | 56 | 2 profiles × (20 rule patterns + 8 nested, conditional, literal and non-linear inputs) |
-| `calculus` | 56 | 26 rule patterns, the same with another bound variable, and 4 inputs no rule matches |
+| `calculus` | 65 | 29 rule patterns, the same with another bound variable, and 7 inputs testing independence and non-matching |
 | `logic` | 150 | 3 profiles × (39 rule patterns + 11 nested, non-linear and quantified inputs), domain `boolean` |
 
 The literal cases include `sin(t)^3 + cos(t)^3` and `sin(3t)`, which must
