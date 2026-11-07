@@ -20,5 +20,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   match (the reference engine leaves them unchanged).
 
 ### Changed
+- Refresh the generated OSR v1 files from Lean source digest `4032322e…`
+  after the structural Calculus premise audit; rule statements and
+  certification counts are unchanged.
 - `trigonometry` suite regenerated from Lean source digest `a6649bd5…`;
   the cases are unchanged.
