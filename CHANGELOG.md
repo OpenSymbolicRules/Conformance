@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- `integration` suite: 321 cases for the 156 audited rules. Refreshed from
+  Lean source digest `577cca61…`.
 - `integration` suite: 255 cases, with five on decided conditions; the
   calculus suites state how conditions are decided (`semantics.conditions`).
   Refreshed from Lean source digest `dcad68f4…`.
