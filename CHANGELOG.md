@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- `integration` suite: 641 cases for the 316 audited rules. Refreshed from
+  Lean source digest `fbfcffe6…`.
 - `integration` suite: 637 cases for the 314 audited rules. Refreshed from
   Lean source digest `322b4cca…`.
 - `integration` suite: 629 cases for the 310 audited rules. Refreshed from
